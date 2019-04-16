@@ -1,0 +1,22 @@
+.Field {
+    border: 1px aqua solid;
+    border-radius: 10px;
+    height: 15%;
+    width: 16%;
+    float: left;
+    margin-right: 4%;
+    margin-left: 0%;
+    margin-bottom: 4%;
+    text-align: center;
+    padding-top: 3%;
+}
+
+.Field:hover {
+    background-color: gold;
+    opacity: 0.4;
+}
+
+img {
+    max-width: 70%;
+    max-height: 70%;
+}
